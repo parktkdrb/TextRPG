@@ -1,0 +1,17 @@
+C:\Users\qkrtk\source\repos\TextRPG\bin\Debug\net8.0\TextRPG.exe
+C:\Users\qkrtk\source\repos\TextRPG\bin\Debug\net8.0\TextRPG.deps.json
+C:\Users\qkrtk\source\repos\TextRPG\bin\Debug\net8.0\TextRPG.runtimeconfig.json
+C:\Users\qkrtk\source\repos\TextRPG\bin\Debug\net8.0\TextRPG.dll
+C:\Users\qkrtk\source\repos\TextRPG\bin\Debug\net8.0\TextRPG.pdb
+C:\Users\qkrtk\source\repos\TextRPG\obj\Debug\net8.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qkrtk\source\repos\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfoInputs.cache
+C:\Users\qkrtk\source\repos\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfo.cs
+C:\Users\qkrtk\source\repos\TextRPG\obj\Debug\net8.0\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\qkrtk\source\repos\TextRPG\obj\Debug\net8.0\TextRPG.dll
+C:\Users\qkrtk\source\repos\TextRPG\obj\Debug\net8.0\refint\TextRPG.dll
+C:\Users\qkrtk\source\repos\TextRPG\obj\Debug\net8.0\TextRPG.pdb
+C:\Users\qkrtk\source\repos\TextRPG\obj\Debug\net8.0\TextRPG.genruntimeconfig.cache
+C:\Users\qkrtk\source\repos\TextRPG\obj\Debug\net8.0\ref\TextRPG.dll
+C:\Users\qkrtk\source\repos\TextRPG\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\qkrtk\source\repos\TextRPG\obj\Debug\net8.0\TextRPG.csproj.AssemblyReference.cache
+C:\Users\qkrtk\source\repos\TextRPG\obj\Debug\net8.0\TextRPG.csproj.Up2Date
